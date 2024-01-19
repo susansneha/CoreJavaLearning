@@ -1,5 +1,7 @@
 package src.Basic_04;
 
+//
+
 import java.util.Scanner;
 
 public class Lab031 {
